@@ -1,0 +1,87 @@
+.page
+{
+	width: 780px;
+	margin: auto;
+	font-family: 'source sans pro',time new roman, tohoma, sans-serif;
+	font-size: 16px;
+
+}
+.infophoto
+{
+	
+	height: 250px;
+}
+.info
+{
+	float: left;
+}
+.photo
+{
+	float: right;
+}
+.section
+{
+	margin-bottom: 70px;
+	text-align: justify;
+}
+.seg-gauche
+{
+	float: left;
+	font-weight: bold;
+	font-size: 16px;
+	margin-right: 150px
+}
+
+.seg-droite
+{
+	margin-left:150px;
+	margin-top: 40px;
+}
+
+h2
+{
+	font-size: 28px;
+	color: #3388BB;
+	border-bottom: 3px solid #3388DD;
+}
+.duree
+{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 14px;
+}
+.inf
+{
+	font-weight: normal;
+	font-style: italic;
+	font-size: 14px;
+}
+.titre
+{
+	font-weight: bold;
+	font-size: 18px;
+}
+
+#forma-gauche p
+{
+	margin-bottom: 30px;
+	margin-top: 0px;
+}
+#fg p
+{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+#comp-gauche p
+{
+	margin-top: 0px;
+}
+#comp-droite p
+{
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+#vie-gauche p
+{
+	margin-top: 0px;
+}
